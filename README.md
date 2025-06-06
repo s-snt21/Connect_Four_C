@@ -7,7 +7,7 @@ This is a simple implementation of the classic game **Connect Four** written in 
 - If the grid fills up with no winner, the game ends in a draw.
 
 ## 🛠️ How to Run the Game
-You can run the game in two ways: either run it directly online, or compile and run it via the command line:
+You can build and run the game in two ways:
 #### Method 1: Run Online (Easiest)
 Just copy the whole code and paste it in the [OnlineGDB](https://www.onlinegdb.com/) debugger. Then click on the *Run* button. The game will start in the console below.
 
